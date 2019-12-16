@@ -20,10 +20,6 @@
   .tab_bar_item img{
     width: 24px;
     height: 24px;
-    background-color: bisque;
     vertical-align: middle;
-  }
-  .active{
-    color:red
   }
 </style>
