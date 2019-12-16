@@ -5,6 +5,7 @@
       <img slot="item_icon_active" src="../assets/image/tabBar/homeA.png" alt="">
       <div slot="item_title">首页</div>
     </tab-bar-item>
+<!--    试修改-->
     <tab-bar-item path="/cart" activeColor="yellow">
       <img slot="item_icon" src="~assets/image/tabBar/friends.png" alt="">
       <img slot="item_icon_active" src="~assets/image/tabBar/friendsA.png" alt="">
